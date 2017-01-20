@@ -47,6 +47,7 @@ import java.util.List;
 
 public class LoginActivity extends FragmentActivity {
 
+    EditText email_1;
     EditText email,password;
     Button btnRegisterPage, btnLogin;
     TextView.OnEditorActionListener te;
